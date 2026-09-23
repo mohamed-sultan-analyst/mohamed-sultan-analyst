@@ -52,7 +52,11 @@ North Coast | 07/2018 – 07/2021
 * Dynamic Dashboards: Developed interactive Power BI and Pivot-based dashboards for KPI tracking, Budget monitoring, and quality control.
 
 ---
-
+## CERTIFICATIONS
+• SQL (Advanced & Intermediate) Skill Certificates – HackerRank (Sep 2026)
+  https://www.hackerrank.com/certificates/iframe/41eafdcc6526
+---
 ## Education & Languages
 * Bachelor's Degree: Theatre Department | Alexandria University.
 * Languages: Arabic (Native), English (Professional Working Proficiency).
+
